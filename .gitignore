@@ -1,8 +1,8 @@
-new_images/
-images/
-slider_demo.ipynb
-US map.png
-3D Viz/3D_figs/
-3D Viz/gifs/
-3D Viz/figs/
-3D Viz/pre-march figs/
+2D/new_images/
+2D/images/
+2D/slider_demo.ipynb
+2D/US map.png
+3D/2D_figs/
+3D/3D_figs/
+3D/gifs/
+3D/pre_march_figs/
