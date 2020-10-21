@@ -1,0 +1,12 @@
+- County data taken from https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
+- 7 day avg taken from https://ourworldindata.org/grapher/daily-covid-cases-7-day?tab=chart&time=2020-02-10..latest&country=~USA
+* US map image taken from https://mapchart.net/usa-counties.html
+- County shape boundaries taken from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+
+
+
+- y factor scaled by 1.5x for visibility
+
+
+LIMITATIONS:
+- Uses the 2019 census estimates for county population
